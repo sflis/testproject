@@ -1,0 +1,2 @@
+# testproject
+Simple C++ testproject
